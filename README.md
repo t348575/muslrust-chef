@@ -1,4 +1,4 @@
-# muslrust-chef ![Visits](https://nkvnu62257.execute-api.ap-south-1.amazonaws.com/production?repo=muslrust-chef)
+# muslrust-chef ![Visits](https://lambda.348575.xyz/repo-view-counter?repo=muslrust-chef)
 
 [muslrust](https://github.com/clux/muslrust) with [cargo-chef](https://github.com/LukeMathWalker/cargo-chef) and [mold](https://github.com/rui314/mold).
 
